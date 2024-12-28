@@ -1,2 +1,1 @@
-# CS490
-Distributed Artifical Intelligence RST
+#Distributed Artifical Intelligence RST
